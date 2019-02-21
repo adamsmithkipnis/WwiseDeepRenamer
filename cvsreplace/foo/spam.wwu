@@ -1,0 +1,17 @@
+bar,bar
+eggs,eggs
+stuff,stuff
+
+this should
+not be 
+replaced
+
+bar bar bar bar
+eggs eggs eggs
+
+stuff stuff
+stuff
+eggs
+
+   bar
+   
